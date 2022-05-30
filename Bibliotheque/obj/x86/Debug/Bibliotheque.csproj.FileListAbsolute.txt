@@ -1,0 +1,14 @@
+c:\users\obnerson\documents\visual studio 2010\Projects\Bibliotheque\Bibliotheque\bin\Debug\Bibliotheque.exe
+c:\users\obnerson\documents\visual studio 2010\Projects\Bibliotheque\Bibliotheque\bin\Debug\Bibliotheque.pdb
+c:\users\obnerson\documents\visual studio 2010\Projects\Bibliotheque\Bibliotheque\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\obnerson\documents\visual studio 2010\Projects\Bibliotheque\Bibliotheque\obj\x86\Debug\Bibliotheque.Properties.Resources.resources
+c:\users\obnerson\documents\visual studio 2010\Projects\Bibliotheque\Bibliotheque\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\obnerson\documents\visual studio 2010\Projects\Bibliotheque\Bibliotheque\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\obnerson\documents\visual studio 2010\Projects\Bibliotheque\Bibliotheque\obj\x86\Debug\Bibliotheque.exe
+c:\users\obnerson\documents\visual studio 2010\Projects\Bibliotheque\Bibliotheque\obj\x86\Debug\Bibliotheque.pdb
+c:\users\obnerson\documents\visual studio 2010\Projects\Bibliotheque\Bibliotheque\obj\x86\Debug\Bibliotheque.BIBLIOTHEQUE.resources
+C:\Users\Obnerson\Documents\Visual Studio 2010\Projects\Bibliotheque\Bibliotheque\obj\x86\Debug\Bibliotheque.MDIParent1.resources
+C:\Users\Obnerson\documents\visual studio 2010\Projects\Bibliotheque\Bibliotheque\obj\x86\Debug\Ajouter.add_form.resources
+C:\Users\Obnerson\documents\visual studio 2010\Projects\Bibliotheque\Bibliotheque\obj\x86\Debug\Bibliotheque.lister.resources
+C:\Users\Obnerson\Documents\Visual Studio 2010\Projects\Bibliotheque\Bibliotheque\obj\x86\Debug\Bibliotheque.search.resources
+C:\Users\Obnerson\Documents\Visual Studio 2010\Projects\Bibliotheque\Bibliotheque\bin\Debug\Bibliotheque.exe.config

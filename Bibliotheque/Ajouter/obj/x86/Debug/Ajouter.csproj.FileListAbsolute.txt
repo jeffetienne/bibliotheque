@@ -1,0 +1,17 @@
+C:\Users\Obnerson\documents\visual studio 2010\Projects\Bibliotheque\Ajouter\bin\Debug\Ajouter.exe
+C:\Users\Obnerson\documents\visual studio 2010\Projects\Bibliotheque\Ajouter\bin\Debug\Ajouter.pdb
+C:\Users\Obnerson\documents\visual studio 2010\Projects\Bibliotheque\Ajouter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Obnerson\documents\visual studio 2010\Projects\Bibliotheque\Ajouter\obj\x86\Debug\Ajouter.Properties.Resources.resources
+C:\Users\Obnerson\documents\visual studio 2010\Projects\Bibliotheque\Ajouter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Obnerson\documents\visual studio 2010\Projects\Bibliotheque\Ajouter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Obnerson\documents\visual studio 2010\Projects\Bibliotheque\Ajouter\obj\x86\Debug\Ajouter.exe
+C:\Users\Obnerson\documents\visual studio 2010\Projects\Bibliotheque\Ajouter\obj\x86\Debug\Ajouter.pdb
+C:\Users\Obnerson\documents\visual studio 2010\Projects\Bibliotheque\Ajouter\obj\x86\Debug\Ajouter.Form1.resources
+C:\Users\Obnerson\Documents\Visual Studio 2010\Projects\Bibliotheque\Bibliotheque\Ajouter\obj\x86\Debug\Ajouter.exe
+C:\Users\Obnerson\Documents\Visual Studio 2010\Projects\Bibliotheque\Bibliotheque\Ajouter\obj\x86\Debug\Ajouter.pdb
+C:\Users\Jeff Etienne\Dropbox\Projets\Bibliotheque\Bibliotheque\Ajouter\obj\x86\Debug\Ajouter.exe
+C:\Users\Jeff Etienne\Dropbox\Projets\Bibliotheque\Bibliotheque\Ajouter\obj\x86\Debug\Ajouter.pdb
+C:\Users\Jeff Etienne\Dropbox\Projets\Bibliotheque\Bibliotheque\Ajouter\obj\x86\Debug\Ajouter.csprojResolveAssemblyReference.cache
+C:\Users\Jeff Etienne\Dropbox\Projets\Bibliotheque\Bibliotheque\Ajouter\obj\x86\Debug\Ajouter.add_form.resources
+C:\Users\Jeff Etienne\Dropbox\Projets\Bibliotheque\Bibliotheque\Ajouter\obj\x86\Debug\Ajouter.Properties.Resources.resources
+C:\Users\Jeff Etienne\Dropbox\Projets\Bibliotheque\Bibliotheque\Ajouter\obj\x86\Debug\Ajouter.csproj.GenerateResource.Cache
